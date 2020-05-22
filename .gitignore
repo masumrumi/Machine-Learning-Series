@@ -1,3 +1,7 @@
 Logistic_Regression/input/**
 Logistic_Regression/notebook/*.json
 Logistic_Regression/notebook/.ipynb_checkpoints/**
+
+Decision_Trees/input/**
+Decision_Trees/notebook/*.json
+Decision_Trees/notebook/.ipynb_checkpoints/**

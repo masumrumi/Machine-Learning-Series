@@ -1,2 +1,3 @@
 Logistic_Regression/input/**
 Logistic_Regression/notebook/*.json
+Logistic_Regression/notebook/.ipynb_checkpoints/**
